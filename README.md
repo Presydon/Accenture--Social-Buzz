@@ -1,4 +1,4 @@
-# Accenture--Social-Buzz
+# Accenture: Social-Buzz
 Data Analytics and Data Visualisation
 
 Social Buzz is a rapidly growing technology unicorn, with a raising increase in their data generation. 
